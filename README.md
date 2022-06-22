@@ -1,3 +1,3 @@
-# js-rt5hpx
+# challenge#1
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-rt5hpx)
+Write a JS program to create a new string adding "New!" in front of a given string. If the given string begins with "New!" already then return the original string.
