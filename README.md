@@ -1,3 +1,3 @@
-# js-rt5hpx
+# challenge#2
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-rt5hpx)
+Write a JS program to display current date.
